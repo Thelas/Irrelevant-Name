@@ -1,0 +1,3 @@
+struct linkedlist {
+	linkedlist* cdr;
+}
